@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<h3><a href="../index.html">Home</a></h3>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.14.4/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.7.0"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.14.4"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.14.4/dist/index.umd.min.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const toolbar = new markmap.Toolbar();
+  toolbar.attach(mm);
+  const el = toolbar.render();
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root, jsonOptions) => {
+        const markmap = getMarkmap();
+        window.mm = markmap.Markmap.create('svg#mindmap', (getOptions || markmap.deriveOptions)(jsonOptions), root);
+      })(() => window.markmap,null,{"type":"heading","depth":0,"payload":{"lines":[0,1]},"content":"Pirandello","children":[{"type":"heading","depth":1,"payload":{"lines":[1,2]},"content":"Teatro","children":[{"type":"heading","depth":2,"payload":{"lines":[2,3]},"content":"Teatro in lingua e in dialetto","children":[{"type":"list_item","depth":3,"payload":{"lines":[3,4]},"content":"Ambientazione in Sicilia"},{"type":"list_item","depth":3,"payload":{"lines":[4,5]},"content":"Personaggi siciliani"},{"type":"list_item","depth":3,"payload":{"lines":[5,6]},"content":"Temi e situazioni ricalcati sulla sua infanzia e giovinezza"}]},{"type":"heading","depth":2,"payload":{"lines":[6,7]},"content":"Teatro del grottesco","children":[{"type":"list_item","depth":3,"payload":{"lines":[7,8]},"content":"Denuncia della falsità della classe borghese"},{"type":"list_item","depth":3,"payload":{"lines":[8,9]},"content":"Ripresa dei personaggi e delle situazioni del teatro borghese 800esco"},{"type":"list_item","depth":3,"payload":{"lines":[9,10]},"content":"Tema della prigione della forma"}]},{"type":"heading","depth":2,"payload":{"lines":[10,11]},"content":"Teatro nel teatro (metateatro)","children":[{"type":"list_item","depth":3,"payload":{"lines":[11,12]},"content":"Andare oltre il teatro"},{"type":"list_item","depth":3,"payload":{"lines":[12,13]},"content":"Utilizzo di un linguaggio estraniante"},{"type":"list_item","depth":3,"payload":{"lines":[13,14]},"content":"Soliloqui e monologhi dei personaggi"}]}]},{"type":"heading","depth":1,"payload":{"lines":[14,15]},"content":"Novelle","children":[{"type":"list_item","depth":2,"payload":{"lines":[15,16]},"content":"Ambientazione in Sicilia o a Roma"},{"type":"list_item","depth":2,"payload":{"lines":[16,17]},"content":"Personaggi borghesi vittime della prigione della forma"},{"type":"list_item","depth":2,"payload":{"lines":[17,18]},"content":"Temi dell'adulterio e del lavoro alienante"},{"type":"list_item","depth":2,"payload":{"lines":[18,19]},"content":"Situazioni paradossali"}]},{"type":"heading","depth":1,"payload":{"lines":[19,20]},"content":"Saggio &quot;L'Umorismo&quot;","children":[{"type":"list_item","depth":2,"payload":{"lines":[20,21]},"content":"Riflessione sull'umorismo come chiave di comprensione della realtà"},{"type":"list_item","depth":2,"payload":{"lines":[21,22]},"content":"Importanza della riflessione nell'arte umoristica"},{"type":"list_item","depth":2,"payload":{"lines":[22,23]},"content":"Concetto del relativismo e dell'inconoscibilità della verità"}]},{"type":"heading","depth":1,"payload":{"lines":[23,24]},"content":"Rapporto con il fascismo","children":[{"type":"list_item","depth":2,"payload":{"lines":[24,25]},"content":"Iniziale adesione al fascismo per il fallimento dei moti liberali"},{"type":"list_item","depth":2,"payload":{"lines":[25,26]},"content":"Prendere le distanze dal fascismo in maniera non dichiarata"},{"type":"list_item","depth":2,"payload":{"lines":[26,27]},"content":"Critica al fascismo nelle opere successive"}]},{"type":"heading","depth":1,"payload":{"lines":[27,28]},"content":"Opere principali","children":[{"type":"list_item","depth":2,"payload":{"lines":[28,29]},"content":"&quot;Il treno ha fischiato&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[29,30]},"content":"&quot;Pensaci, Giacomino&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[30,31]},"content":"&quot;Il berretto a sonagli&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[31,32]},"content":"&quot;Il piacere dell'onestà&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[32,33]},"content":"&quot;Sei personaggi in cerca d'autore&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[33,34]},"content":"&quot;L'umorismo&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[34,35]},"content":"&quot;Novelle per un anno&quot;"}]}]},{})</script>
+</body>
+</html>
