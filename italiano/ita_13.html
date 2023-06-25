@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.14.4/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.7.0"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.14.4"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.14.4/dist/index.umd.min.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const toolbar = new markmap.Toolbar();
+  toolbar.attach(mm);
+  const el = toolbar.render();
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root, jsonOptions) => {
+        const markmap = getMarkmap();
+        window.mm = markmap.Markmap.create('svg#mindmap', (getOptions || markmap.deriveOptions)(jsonOptions), root);
+      })(() => window.markmap,null,{"type":"heading","depth":0,"payload":{"lines":[0,1]},"content":"Giuseppe Ungaretti","children":[{"type":"heading","depth":1,"payload":{"lines":[1,2]},"content":"Vita e formazione","children":[{"type":"list_item","depth":2,"payload":{"lines":[2,3]},"content":"Nato nel 1888 ad Alessandria d'Egitto"},{"type":"list_item","depth":2,"payload":{"lines":[3,4]},"content":"Studi e incontri con Mohammed Sceab, Enrico Pea, Costantinos Kafavis, Fratelli Thuile"}]},{"type":"heading","depth":1,"payload":{"lines":[4,5]},"content":"Esperienze a Parigi","children":[{"type":"list_item","depth":2,"payload":{"lines":[5,6]},"content":"Frequenta la Sorbonne e segue lezioni di Bergson"},{"type":"list_item","depth":2,"payload":{"lines":[6,7]},"content":"Incontra le avanguardie artistiche"}]},{"type":"heading","depth":1,"payload":{"lines":[7,8]},"content":"Esperienze di guerra","children":[{"type":"list_item","depth":2,"payload":{"lines":[8,9]},"content":"Arruolamento come volontario nel 1915"},{"type":"list_item","depth":2,"payload":{"lines":[9,10]},"content":"Visione della guerra cambia dopo la disfatta di Caporetto"}]},{"type":"heading","depth":1,"payload":{"lines":[10,11]},"content":"Ritorno a Parigi e Roma","children":[{"type":"list_item","depth":2,"payload":{"lines":[11,12]},"content":"Collaborazione con Il popolo d'Italia"},{"type":"list_item","depth":2,"payload":{"lines":[12,13]},"content":"Trasferimento a Roma e successivamente a Milano"}]},{"type":"heading","depth":1,"payload":{"lines":[13,14]},"content":"Poetica di Ungaretti","children":[{"type":"list_item","depth":2,"payload":{"lines":[14,15]},"content":"Percezione di nomadismo"},{"type":"list_item","depth":2,"payload":{"lines":[15,16]},"content":"Premianza semantica e verso libero"},{"type":"list_item","depth":2,"payload":{"lines":[16,17]},"content":"Linguaggio quotidiano e analogico"}]},{"type":"heading","depth":1,"payload":{"lines":[17,18]},"content":"Raccolte poetiche","children":[{"type":"list_item","depth":2,"payload":{"lines":[18,19]},"content":"&quot;Il Porto Sepolto&quot; (1916)"},{"type":"list_item","depth":2,"payload":{"lines":[19,20]},"content":"&quot;Allegria di Naufragi&quot; (1919)"},{"type":"list_item","depth":2,"payload":{"lines":[20,21]},"content":"&quot;Allegria&quot; (1931)"},{"type":"list_item","depth":2,"payload":{"lines":[21,22]},"content":"Raccolte successive: &quot;Sentimento del tempo&quot; (1933), &quot;Il dolore&quot; (1947), &quot;La terra promessa&quot; (1950), &quot;Un grido e paesaggi&quot; (1952), &quot;Il taccuino del vecchio&quot; (1960)"}]},{"type":"heading","depth":1,"payload":{"lines":[22,23]},"content":"Poesie significative"},{"type":"heading","depth":1,"payload":{"lines":[23,25]},"content":"&quot;Porto Sepolto&quot;","children":[{"type":"list_item","depth":2,"payload":{"lines":[25,26]},"content":"&quot;Fratelli&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[26,27]},"content":"&quot;I fiumi&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[27,28]},"content":"&quot;Veglia&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[28,29]},"content":"&quot;S Martino del Carso&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[29,30]},"content":"&quot;Mattina&quot;"},{"type":"list_item","depth":2,"payload":{"lines":[30,31]},"content":"&quot;Soldati&quot;"}]}]},{})</script>
+</body>
+</html>
