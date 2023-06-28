@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.14.4/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.7.0"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.14.4"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.14.4/dist/index.umd.min.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const toolbar = new markmap.Toolbar();
+  toolbar.attach(mm);
+  const el = toolbar.render();
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root, jsonOptions) => {
+        const markmap = getMarkmap();
+        window.mm = markmap.Markmap.create('svg#mindmap', (getOptions || markmap.deriveOptions)(jsonOptions), root);
+      })(() => window.markmap,null,{"type":"heading","depth":0,"payload":{"lines":[0,1]},"content":"Rivoluzione scientifica nel campo della fisica","children":[{"type":"heading","depth":1,"payload":{"lines":[1,2]},"content":"Teoria della relatività","children":[{"type":"list_item","depth":2,"payload":{"lines":[2,3]},"content":"Comportamento della luce nei diversi sistemi di riferimento"}]},{"type":"heading","depth":1,"payload":{"lines":[3,4]},"content":"Meccanica quantistica","children":[{"type":"bullet_list","depth":2,"payload":{"lines":[4,6]},"content":"","children":[{"type":"list_item","depth":3,"payload":{"lines":[4,5]},"content":"Studio dei costituenti più piccoli della materia"},{"type":"list_item","depth":3,"payload":{"lines":[5,6]},"content":"Descrizione probabilistica della realtà"}]},{"type":"heading","depth":2,"payload":{"lines":[6,7]},"content":"Nascita della meccanica quantistica","children":[{"type":"list_item","depth":3,"payload":{"lines":[7,8]},"content":"Rivoluzione scientifica nel campo della fisica"},{"type":"list_item","depth":3,"payload":{"lines":[8,9]},"content":"Applicazioni pratiche come l'invenzione dei laser, delle cellule fotoelettriche, degli acceleratori, dei microprocessori, delle manipolazioni genetiche"}]}]},{"type":"heading","depth":1,"payload":{"lines":[9,10]},"content":"Punti critici della fisica classica","children":[{"type":"bullet_list","depth":2,"payload":{"lines":[10,14]},"content":"","children":[{"type":"list_item","depth":3,"payload":{"lines":[10,11]},"content":"Stabilità della struttura atomica"},{"type":"list_item","depth":3,"payload":{"lines":[11,12]},"content":"Spettri a righe degli atomi"},{"type":"list_item","depth":3,"payload":{"lines":[12,13]},"content":"Radiazione del corpo nero"},{"type":"list_item","depth":3,"payload":{"lines":[13,14]},"content":"Effetto fotoelettrico"}]},{"type":"heading","depth":2,"payload":{"lines":[14,15]},"content":"Radiazione del corpo nero","children":[{"type":"list_item","depth":3,"payload":{"lines":[15,16]},"content":"Funzionamento del corpo nero"},{"type":"list_item","depth":3,"payload":{"lines":[16,17]},"content":"Difficoltà della fisica classica nel descrivere il fenomeno"},{"type":"list_item","depth":3,"payload":{"lines":[17,18]},"content":"Legge di Stefan-Boltzmann"},{"type":"list_item","depth":3,"payload":{"lines":[18,19]},"content":"Legge di Wien"},{"type":"list_item","depth":3,"payload":{"lines":[19,20]},"content":"Legge di Rayleigh-Jeans"}]},{"type":"heading","depth":2,"payload":{"lines":[20,21]},"content":"Ipotesi di Planck","children":[{"type":"list_item","depth":3,"payload":{"lines":[21,22]},"content":"Quantizzazione dell'energia"},{"type":"list_item","depth":3,"payload":{"lines":[22,23]},"content":"Eliminazione del pericolo teorico della catastrofe ultravioletta"},{"type":"list_item","depth":3,"payload":{"lines":[23,24]},"content":"Descrizione della radiazione emessa dal corpo nero"}]},{"type":"heading","depth":2,"payload":{"lines":[24,25]},"content":"Effetto fotoelettrico","children":[{"type":"list_item","depth":3,"payload":{"lines":[25,26]},"content":"Estrazione di elettroni da una lamina di metallo tramite radiazione"},{"type":"list_item","depth":3,"payload":{"lines":[26,27]},"content":"Scoperta di Hertz e Lenard"},{"type":"list_item","depth":3,"payload":{"lines":[27,28]},"content":"Interpretazione di Einstein"},{"type":"list_item","depth":3,"payload":{"lines":[28,29]},"content":"Formula fondamentale di Einstein"}]},{"type":"heading","depth":2,"payload":{"lines":[29,30]},"content":"Diffusione Compton","children":[{"type":"list_item","depth":3,"payload":{"lines":[30,31]},"content":"Dimostrazione della natura ondulatoria della materia"},{"type":"list_item","depth":3,"payload":{"lines":[31,32]},"content":"Scoperta di Compton"},{"type":"list_item","depth":3,"payload":{"lines":[32,33]},"content":"Relazione tra variazione della lunghezza d'onda e angolo di scattering"}]}]},{"type":"heading","depth":1,"payload":{"lines":[33,34]},"content":"Modello atomico","children":[{"type":"bullet_list","depth":2,"payload":{"lines":[34,39]},"content":"","children":[{"type":"list_item","depth":3,"payload":{"lines":[34,35]},"content":"Evoluzione della teoria atomica"},{"type":"list_item","depth":3,"payload":{"lines":[35,36]},"content":"Modello di Thomson"},{"type":"list_item","depth":3,"payload":{"lines":[36,37]},"content":"Esperimento di Rutherford"},{"type":"list_item","depth":3,"payload":{"lines":[37,38]},"content":"Esperimento di Millikan"},{"type":"list_item","depth":3,"payload":{"lines":[38,39]},"content":"Modello di Bohr"}]},{"type":"heading","depth":2,"payload":{"lines":[39,40]},"content":"Principio di indeterminazione di Heisenberg","children":[{"type":"list_item","depth":3,"payload":{"lines":[40,41]},"content":"Indeterminazione nella misurazione delle grandezze fisiche"},{"type":"list_item","depth":3,"payload":{"lines":[41,42]},"content":"Esperimento ideale di Heisenberg"}]},{"type":"heading","depth":2,"payload":{"lines":[42,43]},"content":"Dualismo onda-corpuscolo","children":[{"type":"list_item","depth":3,"payload":{"lines":[43,44]},"content":"Scoperta della natura ondulatoria e corpuscolare delle particelle"},{"type":"list_item","depth":3,"payload":{"lines":[44,45]},"content":"Esperimento di Davisson e Germer"}]},{"type":"heading","depth":2,"payload":{"lines":[45,46]},"content":"Indeterminazione quantistica","children":[{"type":"list_item","depth":3,"payload":{"lines":[46,47]},"content":"Principio di indeterminazione di Heisenberg"},{"type":"list_item","depth":3,"payload":{"lines":[47,48]},"content":"Esperimento ideale di Heisenberg"}]},{"type":"heading","depth":2,"payload":{"lines":[48,49]},"content":"Il gatto di Schrodinger","children":[{"type":"list_item","depth":3,"payload":{"lines":[49,50]},"content":"Esperimento ideale di Schrodinger"}]},{"type":"heading","depth":2,"payload":{"lines":[50,51]},"content":"L'esperimento dell'orologio di Einstein","children":[{"type":"list_item","depth":3,"payload":{"lines":[51,52]},"content":"Esperimento ideale di Einstein per confutare l'indeterminazione di Heisenberg"}]}]}]},{})</script>
+</body>
+</html>
