@@ -1,0 +1,10 @@
+## La Chimica organica in breve
+- Fino al secolo scorso, i composti chimici venivano suddivisi in composti inorganici e composti organici.
+- La chimica organica studia i composti prodotti da organismi viventi, ma oggi si riferisce più generalmente alla chimica dei composti del carbonio.
+- Il carbonio è in grado di formare molti composti diversi grazie alle sue caratteristiche di formare legami stabili con altri elementi.
+- L'atomo di carbonio ha 6 elettroni e tende a formare legami covalenti.
+- L'ibridazione degli orbitali del carbonio permette la formazione di legami sigma e pi.
+- Gli idrocarburi sono composti organici formati da carbonio e idrogeno.
+- Gli alcani sono idrocarburi saturi a catena aperta.
+- I cicloalcani sono idrocarburi a catena chiusa.
+- Gli alcani e i cicloalcani possono presentare isomeria di catena e isomeria conformazionale.

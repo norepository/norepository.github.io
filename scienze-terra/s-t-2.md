@@ -1,0 +1,67 @@
+---
+markmap:
+colorFreezeLevel: 3
+maxWidth: 200
+---
+# Placche
+## Teoria Tettonica a Placche
+- La teoria unificatrice che spiega i movimenti della crosta terrestre attraverso la frammentazione delle placche rigide.
+- Le placche si muovono in maniera indipendente e possono essere di dimensioni e spessori variabili.
+- I movimenti delle placche sono responsabili di fenomeni come la formazione di catene montuose, vulcani e terremoti.
+## Movimenti Verticali
+- Il principio di isostasia spiega i movimenti verticali della crosta terrestre.
+- La crosta terrestre può alzarsi o abbassarsi a causa di variazioni nella massa dei prismi che la compongono.
+- Fattori come le coperture glaciali, l'aumento del livello degli oceani e il deposito di sedimenti possono influenzare i movimenti verticali.
+## Movimenti Orizzontali
+- La deriva dei continenti, proposta da Alfred Wegener, spiega gli spostamenti orizzontali delle masse continentali.
+- I continenti erano una volta uniti in un supercontinente chiamato Pangea e si sono separati nel corso di milioni di anni.
+- Le prove geomorfologiche, paleontologiche e paleoclimatiche supportano la teoria della deriva dei continenti.
+## Espansione dei Fondali Oceanici
+- La teoria dell'espansione dei fondali oceanici, proposta da Hess, spiega la formazione dei fondali oceanici e le anomalie magnetiche.
+- Le dorsali oceaniche sono fratture della litosfera da cui risale il materiale fuso del mantello che solidifica in superficie.
+- Le anomalie magnetiche simmetriche e alternate rispetto alle dorsali sono il risultato dell'orientamento del campo magnetico terrestre durante la formazione dei fondali oceanici.
+## Geofisica
+- La geoﬁsica applica le teorie base della fisica allo studio della Terra.
+- Il magnetismo terrestre, la gravitazione universale e la fisica nucleare sono alcuni dei principali campi di studio della geoﬁsica.
+- La geoﬁsica fornisce prove e spiegazioni per sostenere la teoria della tettonica a placche.
+## Formazione della Rift Valley e risalita del magma
+- Si forma una Rift Valley attraverso fratture nella crosta terrestre, da cui il magma risale.
+- I due lembi della Rift Valley si allontanano, permettendo al magma di salire.
+- Durante il processo, il magma basico si raffredda e genera nuova crosta basaltica.
+## Margini convergenti
+- I margini convergenti sono le zone in cui si concentrano i fenomeni vulcanici e sismici.
+- Ci sono diversi tipi di margini convergenti a seconda delle placche coinvolte.
+- Quando una placca oceanica incontra una placca continentale, avviene la subduzione.
+- Quando due placche oceaniche si scontrano, avviene la subduzione.
+- Quando due placche continentali si scontrano, avviene l'orogenesi.
+## Subduzione di placca oceanica sotto placca continentale
+- La crosta oceanica affonda sotto la crosta continentale, formando una fossa e un arco vulcanico continentale.
+- La crosta oceanica che sprofonda è diversa da quando si è formata, a causa del tempo trascorso e dello spostamento.
+- Durante la subduzione, si depositano sedimenti costituiti da minerali diversi dai basalti e si accumula acqua.
+- La fusione delle rocce provenienti dalla crosta oceanica causa la formazione di magma diverso da quello delle dorsali.
+- Il magma risultante è più acido e viscoso, generando un vulcanismo esplosivo.
+## Subduzione di placca oceanica sotto placca oceanica
+- La placca oceanica più vecchia e fredda affonda sotto l'altra placca oceanica.
+- La roccia fonde e risale, generando vulcani che diventano isole vulcaniche e formano archi insulari.
+- Questi fenomeni sono distribuiti lungo la cintura di fuoco, che include Giappone, Filippine, Indonesia, ecc.
+## Orogenesi
+- Durante l'orogenesi, avviene un innalzamento e un aumento dello spessore della crosta.
+- Non c'è subduzione, ma si accumulano materiali e si formano pieghe nelle rocce.
+- Le rocce sono deformate e fratturate, formando falde sovrapposte e attività vulcanica profonda.
+- Le rocce intrusive formano plutoni, che sono evidenti all'esterno per le loro fratture e deformazioni.
+## Margini trascorrenti
+- I margini trascorrenti sono concentrati lungo le dorsali oceaniche e includono la famosa faglia di San Andreas.
+- Non c'è vulcanismo, ma elevata sismicità a causa dell'accumulo di tensione tra i blocchi delle placche.
+- La componente longitudinale dei margini trascorrenti è tagliata da faglie trasformi.
+- Anche l'espansione dei fondali genera scorrimenti trasversali tra i blocchi delle placche.
+## Motore della tettonica delle placche
+- Il movimento delle placche è causato dai moti convettivi nel mantello terrestre.
+- Il trasferimento di calore dal mantello interno verso l'esterno genera moti convettivi.
+- Esistono diverse teorie sulla struttura delle celle convettive nel mantello.
+- Le celle convettive giustificano la formazione delle dorsali e il movimento del materiale verso le fosse.
+## Hot spot
+- Gli hot spot sono anomalie rispetto al modello globale della tettonica delle placche.
+- Sono caratterizzati da vulcanismo isolato rispetto ai margini delle placche.
+- Gli hot spot sono attribuiti a pennacchi di materiale caldo che risalgono dal mantello e rimangono fermi per milioni di anni.
+- Lungo la loro striscia, si formano isole o montagne sottomarine che sono i resti di vulcani spenti.
+- Anche in Italia ci sono tracce di vulcanismo hotspot, come nel Lazio.

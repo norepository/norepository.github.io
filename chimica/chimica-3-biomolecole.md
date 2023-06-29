@@ -1,0 +1,48 @@
+## Acidi carbossilici
+- Il gruppo carbossilico contiene un gruppo carbonile e ossidrile (-COOH).
+- Il carbonio del gruppo COOH è il numero 1 nella catena.
+- Gli acidi carbossilici sono presenti nelle biomolecole come gli acidi grassi e gli amminoacidi.
+## Amminoacidi
+- Gli amminoacidi sono formati da un gruppo amminico e un gruppo carbossilico.
+- La nomenclatura IUPAC prevede il suffisso -oico, ma di solito si usa la nomenclatura tradizionale.
+- Gli amminoacidi si formano attraverso l'ossidazione di composti ossigenati primari.
+- Le proprietà fisiche degli amminoacidi includono legami a idrogeno, alte temperature di ebollizione e alta solubilità.
+- Le proprietà chimiche degli amminoacidi includono acidità, reazioni di sostituzione nucleofila e la capacità di comportarsi sia da acidi che da basi.
+## Il piruvato
+- Il piruvato è un prodotto della glicolisi, che può essere convertito in CO2 e H2O attraverso la respirazione cellulare in presenza di ossigeno.
+- In assenza di ossigeno, il piruvato può essere convertito in acido lattico attraverso la fermentazione lattica.
+## Reazioni di sostituzione nucleofila acilica
+- Gli acidi carbossilici possono subire reazioni di sostituzione nucleofila acilica, formando esteri e ammidi.
+- Gli esteri si formano dalla reazione tra un alcol e un acido carbossilico, come nel caso dei trigliceridi.
+- Le ammidi si formano dalla reazione tra un'ammina e un acido carbossilico, come nel caso delle proteine.
+
+# Biomolecole
+## Carboidrati
+- I carboidrati sono divisi in monosaccaridi, disaccaridi e polisaccaridi.
+- I monosaccaridi sono i carboidrati più semplici, come il glucosio e il fruttosio.
+- I disaccaridi sono formati dalla combinazione di due monosaccaridi, come il saccarosio e il lattosio.
+- I polisaccaridi sono catene di monosaccaridi, come l'amido, la cellulosa e il glicogeno.
+## Lipidi
+- I lipidi sono suddivisi in saponificabili e non saponificabili.
+- I trigliceridi sono un tipo di lipidi saponificabili, formati da una molecola di glicerolo e tre acidi grassi.
+- I fosfolipidi sono lipidi strutturali che formano le membrane cellulari.
+- Il colesterolo è un lipide strutturale che contribuisce alla struttura delle membrane cellulari e svolge un ruolo nel trasporto dei lipidi nel sangue.
+- Gli ormoni steroidei sono lipidi derivati dal colesterolo e svolgono un ruolo nella regolazione dei processi metabolici.
+- Le vitamine liposolubili sono vitamine che si dissolvono nei lipidi e vengono immagazzinate nel corpo.
+## Proteine
+- Le proteine sono polimeri di amminoacidi e svolgono una varietà di funzioni nel corpo.
+- Ci sono 20 tipi di amminoacidi, di cui 8 essenziali che devono essere assunti con la dieta.
+- Gli amminoacidi sono i mattoni fondamentali delle proteine e possono essere essenziali o non essenziali.
+- Le proprietà chimiche delle proteine sono influenzate dal gruppo R degli amminoacidi e possono essere suddivise in base alle loro proprietà di R, alla loro acidità e basicità e alle loro reazioni chimiche.
+- Il legame peptidico è il prodotto di una reazione di condensazione tra un gruppo amminico e un gruppo carbossilico, con la liberazione di una molecola di acqua.
+- Le proteine hanno 4 livelli di complessità: primaria, secondaria, terziaria e quaternaria.
+- Le proteine possono assumere forme diverse a causa delle caratteristiche dei loro amminoacidi.
+- Le proteine svolgono diverse funzioni nel corpo umano, come la struttura, il movimento, il trasporto e la difesa.
+## Acidi nucleici
+- Sono polimeri di nucleotidi e contengono informazioni genetiche.
+- I nucleotidi sono composti da uno zucchero, una base azotata e un gruppo fosfato.
+- Ci sono due tipi di zucchero: ribosio per l'RNA e desossiribosio per il DNA.
+- Le basi azotate possono essere pirimidine o purine.
+- Le basi azotate si accoppiano in modo complementare: A-T (o A-U) e C-G.
+- Gli acidi nucleici hanno diverse funzioni, come la duplicazione, la trascrizione e la traduzione.
+- Il DNA è in grado di portare informazioni e duplicarsi, mentre le proteine non possono fare entrambe le cose.
