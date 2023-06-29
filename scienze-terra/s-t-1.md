@@ -1,7 +1,4 @@
----
-markmap:
-colorFreezeLevel: 3
-maxWidth: 200
+[Home](../index.html)
 ---
 # Magma e Vulcani
 ## Dinamica

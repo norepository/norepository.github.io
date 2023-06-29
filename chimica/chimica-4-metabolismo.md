@@ -1,3 +1,5 @@
+[Home](../index.html)
+---
 ## Metabolismo Cellulare
 - Il metabolismo è l'insieme delle trasformazioni chimiche che avvengono nelle cellule e negli organismi viventi.
 - Ci sono diversi tipi di metabolismo, tra cui la produzione di energia utile e la demolizione di sostanze complesse per ottenere sostanze utili.

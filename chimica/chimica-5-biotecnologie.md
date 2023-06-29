@@ -1,3 +1,5 @@
+[Home](../index.html)
+---
 ## Biotecnologie
 - Nel 1992 a Rio de Janeiro si è tenuta una conferenza ambientale in cui è stata definita la parola "biotecnologia" come l'applicazione di sistemi biologici per produrre o modificare prodotti o processi.
 - Le biotechs sono entrate nella storia umana con la rivoluzione neolitica e hanno fatto passi da gigante negli ultimi decenni.
