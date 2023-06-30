@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+md-block {
+  text-rendering: optimizelegibility !important;
+  font-family: Roboto, monospace;
+  letter-spacing: 0.05em;
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.25em;
+  text-align: justify;
+}
+body {
+  text-rendering: optimizelegibility !important;
+  font-family: Roboto, monospace;
+  letter-spacing: 0.05em;
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.25em;
+  text-align: justify;
+}
+a:hover {
+    color: red
+}
+a:link, a:visited {
+    text-decoration: none;
+    color: blue;
+}
+* {
+  background-color: #fff;
+}
