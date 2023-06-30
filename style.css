@@ -21,8 +21,10 @@ body {
 a:hover {
     color: red
 }
-a:link, a:visited {
+a:link {
     text-decoration: none;
+}
+a:visited {
     color: blue;
 }
 * {
